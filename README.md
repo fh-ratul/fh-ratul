@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Ferdous Hasan
+# Hi there 👋 I'm Ferdous Hasan Ratul
 
 ### Full Stack Developer | Backend Engineer | CSE Student
 
@@ -72,14 +72,16 @@ I enjoy building scalable web applications with modern JavaScript technologies. 
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=fh-ratul&theme=tokyonight&hide_border=true&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fh-ratul&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fh-ratul&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=fh-ratul&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fh-ratul&layout=compact&theme=tokyonight&hide_border=true)
-
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=fh-ratul&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 ## 📫 Connect With Me
