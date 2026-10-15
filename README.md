@@ -14,13 +14,12 @@ A full-stack rental marketplace. The data model is built around a request entity
 ### [Aegis](REPO_LINK)
 An AI financial advisor built on a layered mediation architecture. Every request and response passes through independent layers that check user intent, enforce financial-safety rules and validate the agent's output, so the advice stays safe and auditable.
 
-`STACK_HERE`
+`TypeScript`
 
 ## Currently
 
 - Taking RentNest toward production quality
 - Studying system design and backend internals (databases, OS, networking)
-- Practicing DSA in C++
 
 ## Tech Stack
 
