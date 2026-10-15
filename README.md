@@ -15,7 +15,6 @@ I care about code that stays reliable and easy to change as a system grows, not 
 - 🔨 Taking **RentNest** (rental marketplace) toward production quality
 - 🤖 Building **Aegis**, an AI financial advisor with a layered guardrail architecture
 - 📚 Studying system design and backend internals (databases, OS, networking)
-- 🧩 Practicing DSA in C++
 
 ## Featured Projects
 
