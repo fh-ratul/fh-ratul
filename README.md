@@ -62,9 +62,7 @@ I care about code that stays reliable and easy to change as a system grows, not 
   <img src="https://streak-stats.demolab.com?user=fh-ratul&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fh-ratul&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution graph" />
-</p>
+
 
 ## Connect
 
